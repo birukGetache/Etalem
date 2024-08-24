@@ -68,8 +68,8 @@ const Until = () => {
   return (
     <Box>
       <Name>
-        <P>KIKO</P>
-        <H>pastry</H>
+        <P>Etalem</P>
+        <H>Burger</H>
       </Name>
       <CakePic>
         <I2 src={choko} />

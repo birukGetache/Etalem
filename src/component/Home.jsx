@@ -98,8 +98,8 @@ const Home = () => {
     <Main>
       <Sticky>
         <NavBar>
-          <P>KIKO </P>
-          <S>pastry</S>
+          <P>ETALEM </P>
+          <S>Burger</S>
         </NavBar>
         <Dis>Order your favorite Pastry!</Dis>
         <Search>
